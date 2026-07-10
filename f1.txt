@@ -1,1 +1,2 @@
 this is a second sample content of feature1
+this is a sample content of feature 2
